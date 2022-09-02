@@ -2,8 +2,7 @@ import bpy
 import numpy as np
 import pandas as pd
 
-path = '/Users/kanedaryoutarou/PycharmProjects/CNTViewer/data/'
-path = '/Users/kanedaryoutarou/c++samples/NanotubeModeler/csv_data/'
+path = 'ここにcsvファイルの入っているフォルダのパスを入れてください'
 
 
 def delete_objs():
